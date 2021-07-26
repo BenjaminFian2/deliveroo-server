@@ -10,7 +10,7 @@ app.get("/", (req, res) => {
       path: "Le Pain Quotidien",
       name: "Le Pain Quotidien - Montorgueil",
       categories: ["Petit Déjeuner", "Salade", "Brunch", "Boulangerie"],
-      price: "€€",
+      price: "€",
       phone: "+33144780895",
       percentage: 87,
       ratings: "50+",
